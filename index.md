@@ -7,3 +7,9 @@
 
 ### Image 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+#### Code example 
+```python
+def hello_world():
+print("Hello, World!")
+```
